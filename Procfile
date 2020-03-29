@@ -1,1 +1,1 @@
-web: python appCam2.py
+web: python3 app.py
